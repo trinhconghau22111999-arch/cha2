@@ -42,7 +42,7 @@ jobs:
           p = "android_dktv/dktv/google-services.json"
           d = json.load(open(p))
           for c in d.get("client", []):
-              c["client_info"]["android_client_info"]["package_name"] = "com.hau.dktvall"
+              c["client_info"]["android_client_info"]["package_name"] = "com.hau2.dktvall"
           json.dump(d, open(p, "w"), indent=2)
           PY
           else

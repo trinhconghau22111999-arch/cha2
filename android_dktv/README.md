@@ -17,4 +17,4 @@ Gộp 2 app điều khiển từ xa thành 1, giữ toàn bộ chức năng củ
 ## Build
 - Workflow `.github/workflows/android-dktv-build.yml` (Actions → Android DK TV Gop APK, hoặc mục Releases).
 - Cần secret `GOOGLE_SERVICES_JSON_BASE64` trong repo này (file google-services.json mã hoá base64), nếu không app không kết nối được.
-- applicationId `com.hau.dktvall`: cài song song, không đè 2 app cũ.
+- applicationId `com.hau2.dktvall`: cài song song, không đè app `com.hau.dktvall` cũ.

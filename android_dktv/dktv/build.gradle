@@ -15,7 +15,7 @@ android {
 
     defaultConfig {
         // ID MỚI (khác com.hau.dktv của repo DK_TV và com.screencast.dktv2 của repo a3) -> cài song song, không đè 2 app cũ
-        applicationId "com.hau.dktvall"
+        applicationId "com.hau2.dktvall"
         minSdk 24
         targetSdk 34
         def buildVersionCode = (System.currentTimeMillis() / 1000L).toInteger()
