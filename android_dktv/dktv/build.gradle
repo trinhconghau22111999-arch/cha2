@@ -20,7 +20,7 @@ android {
         targetSdk 34
         def buildVersionCode = (System.currentTimeMillis() / 1000L).toInteger()
         versionCode buildVersionCode
-        versionName "1.0"
+        versionName "2.0"
     }
 
     // Keystore cố định (có sẵn trong repo) để các bản build cài đè lên nhau được
