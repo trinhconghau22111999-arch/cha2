@@ -18,7 +18,7 @@ import java.net.URL
  * là app lên bản mới (cùng applicationId + cùng chữ ký + versionCode mới hơn nên cài đè được).
  */
 object Updater {
-    const val APK_URL = "https://github.com/trinhconghau22111999-arch/cha/releases/latest/download/Tivi-TV.apk"
+    const val APK_URL = "https://github.com/trinhconghau22111999-arch/cha2/releases/latest/download/Tivi-TV.apk"
     @Volatile private var running = false
 
     fun start(act: Activity) {

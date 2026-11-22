@@ -8,7 +8,7 @@ Lấy từ module `tv` của repo a3, đã chỉnh:
 - Giao diện kiểu gaming (nền tối, viền neon).
 
 Cập nhật mới: thanh dưới thêm lại **Menu** (danh sách ứng dụng trên TV), **Ái Kara** (đồng bộ YouTube với điện thoại) và **Home** (về màn hình chính TV) như repo a3, và nút **Cập nhật**: bấm là app tải `Tivi-TV.apk` mới nhất từ
-https://github.com/trinhconghau22111999-arch/cha/releases/latest/download/Tivi-TV.apk rồi tự mở trình cài đặt (hoặc hiện thông báo khi app đang ở nền); bấm "Cập nhật" lần nữa trong màn cài đặt/thông báo là app lên bản mới.
+https://github.com/trinhconghau22111999-arch/cha2/releases/latest/download/Tivi-TV.apk rồi tự mở trình cài đặt (hoặc hiện thông báo khi app đang ở nền); bấm "Cập nhật" lần nữa trong màn cài đặt/thông báo là app lên bản mới.
 
 Thanh dưới: Menu | TV | YouTube | Ái Kara | Cài đặt | Tệp | Home | Cập nhật | ←.
 applicationId `com.desktopmini.tivi`, ký bằng keystore cố định trong `keystore/` nên cài đè được bản cũ.

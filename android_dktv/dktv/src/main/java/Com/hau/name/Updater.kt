@@ -27,7 +27,7 @@ import java.net.URL
  * + versionCode mới hơn nên cài đè được).
  */
 object Updater {
-    const val APK_URL = "https://github.com/trinhconghau22111999-arch/cha/releases/latest/download/DK-TV-Gop.apk"
+    const val APK_URL = "https://github.com/trinhconghau22111999-arch/cha2/releases/latest/download/DK-TV-Gop.apk"
     private const val CHANNEL = "apk_update"
     private const val NOTIF_ID = 4418
     private const val MIME = "application/vnd.android.package-archive"

@@ -7,8 +7,8 @@
 
 ## Link tải APK (cố định, luôn là bản mới nhất)
 
-- DK TV Gộp (điện thoại): https://github.com/trinhconghau22111999-arch/cha/releases/latest/download/DK-TV-Gop.apk
-- Tivi TV (cài trên TV): https://github.com/trinhconghau22111999-arch/cha/releases/latest/download/Tivi-TV.apk
-- ScreenCast (điện thoại): https://github.com/trinhconghau22111999-arch/cha/releases/latest/download/ScreenCast.apk
+- DK TV Gộp (điện thoại): https://github.com/trinhconghau22111999-arch/cha2/releases/latest/download/DK-TV-Gop.apk
+- Tivi TV (cài trên TV): https://github.com/trinhconghau22111999-arch/cha2/releases/latest/download/Tivi-TV.apk
+- ScreenCast (điện thoại): https://github.com/trinhconghau22111999-arch/cha2/releases/latest/download/ScreenCast.apk
 
 Bấm link là tự tải về. Lần đầu mở app, app sẽ hỏi bật "Cho phép cài ứng dụng từ nguồn không xác định" (Android 8+).
